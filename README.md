@@ -1,0 +1,2 @@
+# tripleTEA
+testnet only
